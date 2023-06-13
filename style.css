@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+body {
+  display: grid;
+  place-items: center;
+  padding: 30px;
+}
+h1 {
+  margin-bottom: 30px;
+  font-size: 50px;
+}
+#reset {
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+.container {
+  display: grid;
+  border: 2px solid black;
+  width: 1000px;
+}
